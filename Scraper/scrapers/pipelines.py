@@ -59,7 +59,7 @@ class AzureImagesPipeline(ImagesPipeline):
         checksum = None
         for path, _, buf in self.get_images(response, request, info, item=item):
             #path2=item['property_type']+"/"+item['property_type']+"_"+item['id']+"_"+path[5:]  
-            path2="full2/"+item['property_type']+"_"+item['id']+"_"+path[5:]    
+            path2="full/"+item['property_type']+"_"+item['id']+"_"+path[5:]    
             #print(path2)
             if checksum is None:
                 buf.seek(0)
