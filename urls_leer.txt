@@ -1,5 +1,11 @@
-Urls:
+URLs
+
 Api : http://4.246.188.146:8080/predict
+
 Gradio: https://aca56549a08bec7c54.gradio.live/
 
-#En el caso de Gradio iremos actualziando el link
+Git: https://github.com/jrodriguezshaw/mlprodobl
+
+Azure: https://jr288624.eastus.instances.azureml.ms/lab/tree/Users/JR288624/obl1
+
+Obs: En el caso de Gradio iremos actualizando el link
